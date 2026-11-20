@@ -1,15 +1,4 @@
-# University Management System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/ums)
-![GitHub stars](https://img.shields.io/github/stars/xeventech/ums?style=social)
-![GitHub forks](https://img.shields.io/github/forks/xeventech/ums?style=social)
-[![YouTube Video Views](https://img.shields.io/youtube/views/GeWM3xQzuyc?style=social)](https://youtu.be/GeWM3xQzuyc)
-
-This project is a University Management System with three user panels: Admin, Faculty, and Student. The system is built using PHP, HTML, CSS, JavaScript, and MySQL.
-
-![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/ums/demo.png?raw=true "Desktop Demo")
-
-## Features
 
 ### 1. Admin Panel
 - **Manage Students**: Add, remove, modify student details, and update passwords if forgotten.
