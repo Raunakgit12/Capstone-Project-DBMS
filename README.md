@@ -71,9 +71,7 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
 
-## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/ums/thumbnail.png?raw=true "Play")](https://youtu.be/GeWM3xQzuyc)
 
 
 ## Thank you for reading, here's a cat:
